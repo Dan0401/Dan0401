@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dan0401
+- 👋 Hi, I’m Danish Khan
 - 👀 I’m interested in Data Analytics & Visualization, Data Science, Machine Learning.
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
