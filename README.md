@@ -1,4 +1,4 @@
--  👋 Hi, I’m Danish Khan, I am working in Data Science domain -specifically reporting, data transformation, and building scalable data pipelines. I focus on turning complex datasets into clear, actionable business intelligence and am actively expanding my expertise into robust Data Engineering architectures.
+- 👋 Hi, I’m Danish Khan, I am working in Data Science domain -specifically reporting, data transformation, and building scalable data pipelines. I focus on turning complex datasets into clear, actionable business intelligence and am actively expanding my expertise into robust Data Engineering architectures.
 - 
 ### 🛠️ Tech Stack & Skillset
 
@@ -16,7 +16,7 @@
 
 I am looking to collaborate on:
 *   Open-source Data Engineering and ETL pipeline projects.
-*   Advanced Python and Python automation tools.
+*   Advanced Python and Data Science automation tools.
 *   End-to-end Data Science and Data Analytics workflows.
 
 📫 **How to reach me:** [khandanish040196@gmail.com](mailto:khandanish040196@gmail.com)
