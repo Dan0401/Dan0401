@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish Khan
-- 👀 I’m interested in Data Analytics & Visualization, Data Science, Machine Learning.
+- 👀 I’m interested in Data Analytics, Data Science, Machine Learning & Artificial Intelligence.
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: khandanish040196@gmail.com
